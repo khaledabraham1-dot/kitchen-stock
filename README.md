@@ -33,7 +33,7 @@ A beginner-friendly Python project that simulates a simple kitchen inventory man
 2. Navigate to the project directory:
 
    ```bash
-   cd python-kitchen-stock
+   cd kitchen-stock
    ```
 
 3. Run the program:
