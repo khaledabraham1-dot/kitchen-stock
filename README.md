@@ -27,7 +27,7 @@ A beginner-friendly Python project that simulates a simple kitchen inventory man
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/python-kitchen-stock.git
+  git clone https://github.com/khaledabraham1-dot/python-kitchen-stock.git
    ```
 
 2. Navigate to the project directory:
